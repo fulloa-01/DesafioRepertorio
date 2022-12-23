@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "cancion": "Tren al surRE",
+        "artista": "Los Prisioneros",
+        "tono": "DMA"
+    },
+    {
+        "id": 2,
+        "cancion": "La Herida",
+        "artista": "Heroes del Silencio",
+        "tono": "DM"
+    },
+    {
+        "id": 3,
+        "cancion": "Let there be rock",
+        "artista": "AC/DC",
+        "tono": "EM"
+    },
+    {
+        "id": 9952,
+        "cancion": "A dios le pido",
+        "artista": "Juanes",
+        "tono": "Em"
+    }
+]
